@@ -29,15 +29,9 @@ Key performance areas monitored:
 
 ---
 
-## 3. Dashboard Preview
 
-![Dashboard Overview](dashboard.png)
 
-The dashboard presents a consolidated view of sales and profit trends, category-level performance, and historical comparisons across multiple years.
-
----
-
-## 4. Data Sources & Scope
+## . Data Sources & Scope
 
 | Aspect | Description |
 |------|------------|
