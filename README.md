@@ -31,7 +31,7 @@ Key performance areas monitored:
 
 
 
-## . Data Sources & Scope
+## 3. Data Sources & Scope
 
 | Aspect | Description |
 |------|------------|
@@ -50,7 +50,7 @@ Key performance areas monitored:
 
 ---
 
-## 5. Data Schema & Types
+## 4. Data Schema & Types
 
 ### FactSales Table
 
@@ -65,7 +65,7 @@ Key performance areas monitored:
 
 ---
 
-## 6. Data Model
+## 5. Data Model
 
 **Model Type:** Star Schema  
 
@@ -87,7 +87,7 @@ Key performance areas monitored:
 
 ---
 
-## 7. Data Preparation & Transformation
+## 6. Data Preparation & Transformation
 
 ### Data Cleaning
 - Standardized category and sub-category naming
@@ -108,7 +108,7 @@ Key performance areas monitored:
 
 ---
 
-## 8. Metrics & KPIs
+## 7. Metrics & KPIs
 
 | Metric | Definition | Calculation Logic | Example Value | Visual |
 |------|-----------|------------------|--------------|--------|
@@ -120,7 +120,7 @@ Key performance areas monitored:
 
 ---
 
-## 9. Dashboard Analysis
+## 8. Dashboard Analysis
 
 ### Sales History (Line Chart)
 - Visual Type: Line Chart
@@ -141,7 +141,7 @@ Key performance areas monitored:
 
 ---
 
-## 10. Key Insights
+## 9. Key Insights
 
 1. **Technology generates the highest sales at $836K**, accounting for ~36% of total revenue.
 2. **Total sales reached $2.297M**, while profit remained relatively low at **$286K**, indicating margin pressure.
@@ -154,7 +154,7 @@ Key performance areas monitored:
 
 ---
 
-## 11. Recommendations
+## 10. Recommendations
 
 1. **Optimize pricing strategies** in Furniture to address profit leakage.
 2. Prioritize **Technology category expansion**, given strong revenue contribution.
@@ -164,7 +164,7 @@ Key performance areas monitored:
 
 ---
 
-## 12. Data Quality & Validation
+## 11. Data Quality & Validation
 
 - Cross-validated sales totals against category subtotals
 - Confirmed profit aggregation logic across visuals
@@ -174,19 +174,18 @@ Key performance areas monitored:
 
 ---
 
-## 13. Tools & Technologies
+## 12. Tools & Technologies
 
 | Component | Tool |
 |---------|------|
 | Visualization | Power BI |
 | Data Transformation | Power Query |
-| Modeling | Star Schema |
 | Analytical Language | DAX |
 | File Format | PBIX |
 
 ---
 
-## 14. Limitations & Assumptions
+## 13. Limitations & Assumptions
 
 - Cost structure details not available
 - Customer-level segmentation excluded
@@ -195,13 +194,13 @@ Key performance areas monitored:
 
 ---
 
-## 15. Conclusion
+## 14. Conclusion
 
 This analytics project delivers a comprehensive view of Big Stores’ financial performance, highlighting revenue drivers, profitability risks, and category-level efficiency. The dashboard equips stakeholders with clear, actionable insights to improve margin management, optimize product focus, and strengthen financial decision-making.
 
 ---
 
-## 16. Future Enhancements
+## 14. Future Enhancements
 
 - Add **customer segmentation analysis**
 - Introduce **profit margin and ROI metrics**
@@ -212,5 +211,5 @@ This analytics project delivers a comprehensive view of Big Stores’ financial 
 ---
 
 **Project Type:** Business Intelligence & Sales Analytics  
-**Use Case:** Portfolio, Academic Review, Executive Presentation
+**Use Case:** Portfolio, Executive Presentation
 
